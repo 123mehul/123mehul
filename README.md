@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mehulbhatt2705" target="blank"><img src="https://img.shields.io/twitter/follow/mehulbhatt2705?logo=twitter&style=for-the-badge" alt="mehulbhatt2705" /></a> </p>
 
-- Passionate about learning data analysis and Python. Exploring data trends and building Python projects to enhance my skills. 🚀📊🐍
+- 🚀 Passionate about learning data analysis and Python 
 
 - 📫 How to reach me **mehulbhatt2705@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Exploring data trends and building Python projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
